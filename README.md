@@ -42,7 +42,7 @@ Path (For routing or redirecting)
 **•	Playback Speed of Videos** <br />
 **•	Downloading the Videos** <br />
 **•	Picture in Picture mode** <br />
-**•	Search ** <br />
+**•	Search** <br />
 
 # FUTURE SCOPE:
 
